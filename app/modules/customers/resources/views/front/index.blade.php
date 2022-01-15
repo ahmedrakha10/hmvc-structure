@@ -1,0 +1,2 @@
+FrontEnd page           {{__('index')}}
+
